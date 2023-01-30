@@ -1,0 +1,8 @@
+../RTG/Src/RTG.c:39:6:rtg_main	24	static
+../RTG/Src/RTG.c:150:6:tftpd_init	8	static
+../RTG/Src/RTG.c:158:6:Manager	176	static
+../RTG/Src/RTG.c:286:6:PoliceWorker	16	static
+../RTG/Src/RTG.c:339:6:AmbulanceWorker	16	static
+../RTG/Src/RTG.c:389:6:FireWorker	16	static
+../RTG/Src/RTG.c:437:6:MaintenanceWorker	16	static
+../RTG/Src/RTG.c:485:6:Communicationinit	16	static
